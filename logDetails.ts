@@ -20,4 +20,4 @@ logDetails('356', 'Cerveja')
 logInfo(896, 'Cleiton')
 logInfo('896', 'Cleiton')
 
-renderPlatform('Windows')
+renderPlatform('Linux')
