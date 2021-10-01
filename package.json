@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon dist/classes.js"
+    "start": "nodemon dist/interfaces.js"
   },
   "dependencies": {
     "nodemon": "^2.0.13"
