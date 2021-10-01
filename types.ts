@@ -50,3 +50,11 @@ cart = {
     key: 0,
     value: 'foo'
 }
+
+//type inference
+let msg = 'default message'
+msg = 'default message 2'
+
+window.addEventListener('click', (e) => {
+    console.log(e.target)
+})
