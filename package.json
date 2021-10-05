@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon dist/generics.js"
+    "start": "nodemon dist/type-utilities.js"
   },
   "dependencies": {
     "nodemon": "^2.0.13"
