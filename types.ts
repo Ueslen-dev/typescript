@@ -20,6 +20,8 @@ values = [3,4,5]
 //tuple
 let title: [number, string, boolean, number[]]
 title = [1, 'foo', true, [1,3,5]]
+type tuple = [number, number]
+[5,6] as tuple
 
 //enum
 enum Colors {
